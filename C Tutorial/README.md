@@ -1,8 +1,3 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/823406519/C/blob/master/C%20Tutorial/styles/style.css">
-# C Tutorial Overview
+[运算符][1]
 
-## 命名和注释规则
-
-### 1-01 数据类型、转换 {.indent1}
-
-### 1-01-01 派生数据类型 {.indent2}
+[1]: ./内容/5-01运算符.md
