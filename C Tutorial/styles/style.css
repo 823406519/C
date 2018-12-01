@@ -1,0 +1,11 @@
+.heading1{
+    color: blue;
+}
+.indent1{
+    text-indent: 50px;
+    line-height: .5;
+}
+.indent2{
+    text-indent: 100px;
+    line-height: .5;
+}
